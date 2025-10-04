@@ -25,3 +25,4 @@ function Ternary_Operator() {
 }
 
 export default Ternary_Operator;
+    

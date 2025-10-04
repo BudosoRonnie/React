@@ -1,15 +1,12 @@
 
-import  String from "./TemplateString"
+import Attribute from "./Attribute"
 
 function App() {
- 
 
   return (
     <>
-
-      <String/>
+      <Attribute /> 
     </>
   )
 }
-
 export default App

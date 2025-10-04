@@ -5,7 +5,7 @@ function Modules() {
   return (
     <>
     <h1>Modules Example</h1>
-    <p> My name is{names}</p>
+    <p> My name is {names}</p>
     <p>I am + age {age} years old</p>
     </>
   )
